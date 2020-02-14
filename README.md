@@ -18,5 +18,10 @@ After HDFS connection creation, you can create a new dataset using the named res
 ![ScreenShoot](./pictures/create_dtap_dataset_1.png)
 
 You can test it by listing the available files, and you can preview the data associated with a specfic file:
-![ScreenShoot](./pictures/create_dtap_dataset_2.png)u
+![ScreenShoot](./pictures/create_dtap_dataset_2.png)
+
+
+More detail about the Hadoop integration into Dataiku can be find at https://doc.dataiku.com/dss/latest/hadoop/installation.html.
+
+
 
